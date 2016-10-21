@@ -1,3 +1,6 @@
 [submodule "external/ChibiOS"]
 	path = external/ChibiOS
 	url = https://github.com/ChibiOS/ChibiOS.git
+[submodule "external/stm32-cmake"]
+	path = external/stm32-cmake
+	url = https://github.com/Tustvold/stm32-cmake
