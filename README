@@ -1,0 +1,3 @@
+Set CMake options to "-DSTM32_CHIP=STM32F407VG -DCMAKE_TOOLCHAIN_FILE=../external/CMakeModules/gcc_stm32.cmake"
+
+If you get permission denied errors set the setuid bit on arm-none-eabi-gdb
